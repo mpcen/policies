@@ -9,7 +9,7 @@ Below is our Privacy Policy, which incorporates and clarifies these principles.
 
 ### Who We Are and What This Policy Covers
 
-Hi! We're GARBAGETIME.APP. We run a mobile application to help you with your fantasy football team all year long. This policy covers the mobile app - GARBAGETIME.APP.
+Hi! We're GarbageTime Pros. We run a Chrome Extension to help you with your fantasy football team all year long. This policy covers the extension - GarbageTime Pros Fantasy Football Extension.
 
 ### Creative Commons Sharealike License
 
@@ -19,17 +19,13 @@ This Privacy Policy is available under a [Creative Commons Sharealike](https://c
 
 We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
 
-#### _Information You Provide to Us_
-
-It’s probably no surprise that we collect information that you provide to us directly. Here are some examples:
-
-*   **Basic account information:** We ask for basic information from you in order to set up your account. For example, we require individuals users to provide an email and password.
-
 #### _Information We Collect Automatically_
 
-We also collect some information automatically:
+*   **Log information:** Like most online service providers, we collect information that web sites, and servers typically make available, including the browser type, IP address, unique device identifiers, operating system, and mobile network information.
 
-*   **Log information:** Like most online service providers, we collect information that mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, operating system, and mobile network information.
+*  **Email Address** We get this directly from your browser if you're logged into a profile.
+
+*  **Sleeper Auth Token** We need to to have access to your pending waiver adds. We in no way store this on our servers or log it in anyway. 
 
 ### How and Why We Use Information
 
@@ -50,6 +46,6 @@ While no online service is 100% secure, we work very hard to protect information
 
 ### How to Reach Us
 
-If you have a question about this Privacy Policy, please contact us via [email](mailto:admin@garbagetime.app). This is the fastest way to get a response to your inquiry.
+If you have a question about this Privacy Policy, please contact us via [email](mailto:emmanuelmartinez.dev@gmail.com). This is the fastest way to get a response to your inquiry.
 
 That’s it! Thanks for reading.
